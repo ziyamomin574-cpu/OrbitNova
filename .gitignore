@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+.aura/
+.vscode/mcp.json
+/0.30.0
+data/pendrive_*/
+SATNEX.zip
